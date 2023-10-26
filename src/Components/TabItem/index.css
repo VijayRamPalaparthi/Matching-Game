@@ -1,0 +1,17 @@
+.tab-list-container {
+  margin-right: 15px;
+}
+.tab-button {
+  border: none;
+  color: white;
+  font-family: 'roboto';
+  font-weight: bold;
+  font-size: 22px;
+  background-color: transparent;
+  padding: 5px;
+  cursor: pointer;
+}
+.add-active {
+  border-bottom: 2px solid #fec653;
+  color: #fec653;
+}
